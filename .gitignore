@@ -8,3 +8,8 @@ yarn-error.log*
 .DS_Store
 *.log
 dist/
+API_TESTING.md
+GITHUB_DEPLOYMENT.md
+PROJECT_SUMMARY.md
+QUICK_START.md
+SAMPLE_DATA.js
